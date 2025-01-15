@@ -3,6 +3,9 @@ Hi 👋 My name is Alper
 
 𝐀𝐋𝐏𝐄𝐑 𝐎𝐑𝐀𝐊𝐂𝐈
 
+* 🌍  I'm based in Turkey
+* ✉️  You can contact me at [alperorakcicontact@gmail.com](mailto:alperorakcicontact@gmail.com)
+
 <a href="https://www.github.com/alperorakci" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alperorakci?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/alperorkci" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alperorkci?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
